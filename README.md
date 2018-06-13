@@ -19,6 +19,8 @@ A clean and simple Material Design skin for Rainmeter's NowPlaying plugin.
  ✓ Fits nicely into the Windows Taskbar!
 
  ✓ Auto hides the skin if nothing is playing on the chosen player.
+ 
+ ✓ Supports Spotify!
 
  
 ## Note:
@@ -26,6 +28,7 @@ A clean and simple Material Design skin for Rainmeter's NowPlaying plugin.
 By default, the chosen player is iTunes. Do change the player if you're using a different player by opening "Material Player.ini" and editing "Player=iTunes" line with the correct player under "[Variables]"
 
 ## Changelog:
+1.3   - 2018/6/13 - Added Spotify Support! (Note: Seek does not work and hence is disabled)
 1.2.2 - 2018/4/21 - Added ability to auto hide if nothing is playing
 
 1.2.1 - 2018/4/1 - Resized the player to fit in Windows Taskbar
