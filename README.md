@@ -2,7 +2,7 @@
 
 A clean and simple Material Design skin for Rainmeter's NowPlaying plugin.  
 
-#Features:
+## Features:
 
  ✓ Play/pause when cover art is left-clicked
 
@@ -21,11 +21,11 @@ A clean and simple Material Design skin for Rainmeter's NowPlaying plugin.
  ✓ Auto hides the skin if nothing is playing on the chosen player.
 
  
-#Note:
+## Note:
 
 By default, the chosen player is iTunes. Do change the player if you're using a different player by opening "Material Player.ini" and editing "Player=iTunes" line with the correct player under "[Variables]"
 
-#Changelog:
+## Changelog:
 1.2.2 - 2018/4/21 - Added ability to auto hide if nothing is playing
 
 1.2.1 - 2018/4/1 - Resized the player to fit in Windows Taskbar
